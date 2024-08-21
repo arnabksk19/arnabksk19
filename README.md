@@ -43,11 +43,7 @@ I'm Arnab, a developer from India who believes that great code isn't just functi
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnabksk19&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="arnabksk19's Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnabksk19&theme=tokyonight&hide_border=true" alt="arnabksk19's Streak" width="48%" />
-</p>
+![arnabksk19's Stats](https://github-readme-stats.vercel.app/api?username=arnabksk19&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![arnabksk19's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnabksk19&theme=tokyonight&hide_border=true)
+![arnabksk19's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabksk19&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabksk19&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="arnabksk19's Top Languages" width="58%" />
-</p>
