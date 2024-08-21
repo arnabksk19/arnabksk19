@@ -2,7 +2,7 @@
 
 ## About Arnab
 
-I'm Arnab, a developer from India who believes that great code isn't just functional—it's also intuitive and maintainable. My goal is to craft solutions that not only solve problems but also make sense to those who come after me.
+You’ve landed on Arnab’s GitHub. I’m just getting started with coding, and I’m excited to share my journey with you. Let’s connect and collaborate!
 
 **Fun Fact:** My favorite debugging tool? Google—because every coder starts somewhere!
 
