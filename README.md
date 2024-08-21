@@ -12,7 +12,7 @@ I'm Arnab, a developer from India who believes that great code isn't just functi
 
 ### Web Development
 
-<p align="center">
+<p >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height='50px' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" height='50px'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height='50px'/>
@@ -26,7 +26,7 @@ I'm Arnab, a developer from India who believes that great code isn't just functi
 
 ### Tools
 
-<p align="center">
+<p >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height='50px'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="50px" />
@@ -35,7 +35,7 @@ I'm Arnab, a developer from India who believes that great code isn't just functi
 
 ### Programming Languages
 
-<p align="center">
+<p >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" height="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" height="50px" />
