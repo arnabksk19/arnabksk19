@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=2000&width=435&lines=%F0%9F%91%8B+Hello%2C+World!;Hi%2C+I'm+Arnab;Let%E2%80%99s+connect+and+collaborate!)](https://git.io/typing-svg)
 ## About Arnab
 
 <p style="font-size:7px;">
