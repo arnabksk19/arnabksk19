@@ -20,8 +20,7 @@ You’ve landed on Arnab’s GitHub. I’m just getting started with coding, and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height='50px'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height='50px'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" height='50px'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height='50px'/>
-  <img src="https://icongr.am/devicon/express-original.svg?size=50&color=currentColor">
+  <img src="https://icongr.am/devicon/express-original.svg?size=50&color=ffffff">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" height='50px'/>
 </p>
 
