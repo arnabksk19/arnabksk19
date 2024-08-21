@@ -1,4 +1,10 @@
-## Hi there 👋
+## About Arnab
+
+<p style="font-size:7px;">
+I’m Arnab, a developer from India who believes that great code isn’t just functional—it’s also intuitive and maintainable. My goal is to craft solutions that not only solve problems but also make sense to those who come after me.
+</p>
+<p><strong>Fun Fact:</strong> My favorite debugging tool? Google—because every coder starts somewhere! </p>
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## Technologies
 
@@ -18,7 +24,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height='50px'/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" height='50px'/>
     </td>
-
 
 </table>
 
